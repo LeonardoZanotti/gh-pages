@@ -1,18 +1,18 @@
 <img src="https://miro.medium.com/max/2560/1*UBPbXxCACLSygvXutPPGSA.jpeg" alt="Github pages" />
 
 # Github pages
-Github pages is a simple way to deploy your static site or markdown text with github just using your github repository.
+Github pages are a simple way to deploy your static site or markdown text with github using only your github repository.
 
 ## How to use
-If you want to host your project, it should be a static website like the one in this repo, made with only html, css and js for example, and should be pushed to the root of the repository.
+If you want to host your project, it should be a static website like the one in this repo, made only with html, css and js for example, and should be pushed to the root of the repository.
 
-To generate the github page you should create a branch named `gh-pages`. The project in this branch will be deployed by github automatically to *http://<username>.github.io/<repository>*.
+To generate the github page you should create a branch named `gh-pages`. The project in this branch will be deployed by github automatically to **http://username.github.io/repository**.
 
 
 Example of this repo: https://leonardozanotti.github.io/gh-pages/
 
 
-If you project is pushed like my [Tour of Heroes project](https://github.com/LeonardoZanotti/Tour-of-Heroes), then you github page will load the markdown file.
+If you project is pushed like my [Tour of Heroes project](https://github.com/LeonardoZanotti/Tour-of-Heroes), then you github page will load only the markdown file.
 
 
 Example of markdown file on github page: https://leonardozanotti.github.io/Tour-of-Heroes/
