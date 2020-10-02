@@ -24,6 +24,18 @@ Example of markdown file on github page: https://leonardozanotti.github.io/Tour-
 * Published websites by Github Pages has a build limit of 10 builds per hour;
 * If an user exceed this limits, the user will receive an email from GitHub (it is not very threatening, is it?)
 
+
+<img src="https://www.drupal.org/files/project-images/vercel-deploy.png" alt="Vercel" />
+
+## Other option - Vercel
+If you, for some reason, don't want to use Github pages, you can also use [Vercel](https://vercel.com/) to deploy you static website with serverless functions.
+
+
+It can deploy 30+ Jamstack frameworks like React, Vuejs, Angular, Nuxtjs, Nextjs, etc. Works with 4.5B requests per week, 9PB data served and 99.99% guaranteed uptime.
+
+
+To deploy on Vercel, you just need to connect your Github/Gitlab/Bitbucket account, select the repository and its done, very simple. I took about one minute to deploy my angular [Tour of Heroes project](https://github.com/LeonardoZanotti/Tour-of-Heroes) to Vercel in this [link](https://tour-of-heroes-bice.vercel.app/).
+
 ## References
 Thanks for Paula Grangeiro, for [his article](https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14) about GitHub Pages.
 
