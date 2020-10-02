@@ -9,20 +9,20 @@ If you want to host your project, it should be a static website like the one in 
 To generate the github page you should create a branch named `gh-pages`. The project in this branch will be deployed by github automatically to **http://username.github.io/repository**.
 
 
-Example of this repo: https://leonardozanotti.github.io/gh-pages/
+Example of this repo: https://leonardozanotti.github.io/gh-pages/.
 
 
 If you project is pushed like my [Tour of Heroes project](https://github.com/LeonardoZanotti/Tour-of-Heroes), then you github page will load only the markdown file.
 
 
-Example of markdown file on github page: https://leonardozanotti.github.io/Tour-of-Heroes/
+Example of markdown file on github page: https://leonardozanotti.github.io/Tour-of-Heroes/.
 
 ## Limits
 * The hosted repository has 1GB limit;
 * The hosted website has 1GB limit;
 * Published websites by Github Pages has a band recommendation of 100GB or 100.000 (hundred thousand) requests per month;
 * Published websites by Github Pages has a build limit of 10 builds per hour;
-* If an user exceed this limits, the user will receive an email from GitHub (it is not very threatening, is it?)
+* If an user exceed this limits, the user will receive an email from GitHub (it is not very threatening, is it?).
 
 
 <img src="https://www.drupal.org/files/project-images/vercel-deploy.png" alt="Vercel" />
